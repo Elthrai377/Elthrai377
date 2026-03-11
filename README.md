@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-French CS student, junior developer & data analyst.<br>
+French CS student & junior developer.<br>
 Soon-to-be contributor to the scientific tool ECCAD.
 
 I enjoy taking part in new projects and working on new ideas, no matter how ambitious they may be!
