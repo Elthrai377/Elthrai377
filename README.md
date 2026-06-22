@@ -1,7 +1,7 @@
 ## Hello world 👋
 
 French CS student & junior developer.<br>
-Contributor to the scientific tool ECCAD.
+Contributor to the international scientific tool ECCAD.
 
 Soon-to-be Kubernetes & AI Engineer at Orange Wholesale.
 
